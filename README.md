@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" width="auto" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidd6p&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="sidd6p" /></p>
 
 
-<p><img align="right" width="auto" height="200" src="https://github-readme-stats.vercel.app/api?username=sidd6p&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="sidd6p" /></p>
+<p><img align="left" width="auto" height="200" src="https://github-readme-stats.vercel.app/api?username=sidd6p&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="sidd6p" /></p>
