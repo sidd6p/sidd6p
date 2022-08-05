@@ -38,11 +38,16 @@
 
 ## __My Gurus🙏__
 
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
+## __Find me here 📍__
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/siddp6/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhartha-purwar/)
+
 
 
 ## __World of Git 🔥__   
@@ -51,5 +56,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sidd6p&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="sidd6p"/>     
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidd6p&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="sidd6p"/>       
-
 
