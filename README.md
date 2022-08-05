@@ -1,7 +1,7 @@
 ## __👋Hi I'm Siddhartha__
 
 - 👀 I’m interested in Coding, Technology, Problem Solving, Behavioral science, Well-being and anything that makes me curious 
-- 🌱 I’m currently learning Flask, FAstAPI, JavaScript, Python, DSA, Competition coding, DevOps
+- 🌱 I’m currently learning Flask, FastAPI, JavaScript, Python, DSA, Competition coding, DevOps
 - 💞️ I’m looking to collaborate on project that solve day-to-day problems, wellness related and reseach related
 - 📫 How to reach me siddpurwar@gmail.com
 
