@@ -55,11 +55,13 @@
 ## __Things to proud of🔥__   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sidd6p&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sidd6p)](https://github.com/ryo-ma/github-profile-trophy)
+
+   
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sidd6p&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="sidd6p"/> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidd6p&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="sidd6p"/>       
-
-
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidd6p&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="sidd6p"/>    
 
 
 
