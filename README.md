@@ -60,6 +60,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sidd6p&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="sidd6p"/> 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidd6p&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="sidd6p"/>    
 
+[![@sidd6p's Holopin board](https://holopin.me/sidd6p)](https://holopin.io/@sidd6p)
 
 
 ![](https://leetcard.jacoblin.cool/siddp6?ext=contest)
