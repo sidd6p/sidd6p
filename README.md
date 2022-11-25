@@ -1,5 +1,9 @@
 ## __👋Hi I'm Siddhartha__
 
+
+![Hello, my name is Siddhartha Nice to meet you  (3)](https://user-images.githubusercontent.com/91800813/204003789-b05349b2-b4f6-42aa-9af1-e84e8a051daa.png)
+
+
 - 👀 I’m interested in Coding, Technology, Problem Solving, Behavioral science, Well-being and anything that makes me curious 
 - 🌱 I’m currently learning Flask, FastAPI, JavaScript, Python, DSA, Competition coding, DevOps
 - 💞️ I’m looking to collaborate on project that solve day-to-day problems, wellness related and reseach related
