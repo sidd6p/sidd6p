@@ -57,15 +57,20 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://siddp6.medium.com/)
 
 
-## __Things to proud of🔥__   
+## __World of Git :octocat:__   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sidd6p&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-   
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sidd6p&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="sidd6p"/> 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidd6p&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="sidd6p"/>    
 
+
+![](https://activity-graph.herokuapp.com/graph?username=sidd6p&theme=black)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidd6p&theme=tokyonight)
+
+
+## __Things to proud of🔥__  
 [![@sidd6p's Holopin board](https://holopin.me/sidd6p)](https://holopin.io/@sidd6p)
 
 
 ![](https://leetcard.jacoblin.cool/siddp6?ext=contest)
+
