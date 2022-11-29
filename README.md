@@ -71,6 +71,7 @@
 ## __Things to proud of🔥__  
 [![@sidd6p's Holopin board](https://holopin.me/sidd6p)](https://holopin.io/@sidd6p)
 
+![](https://github-profile-trophy.vercel.app/?username=sidd6p&theme=tokyonight)
 
 ![](https://leetcard.jacoblin.cool/siddp6?ext=contest)
 
