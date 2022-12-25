@@ -62,13 +62,16 @@
 ## __World of Git :octocat:__   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sidd6p&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sidd6p&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="sidd6p"/> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidd6p&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="sidd6p"/>    
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidd6p&theme=tokyonight)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidd6p&theme=tokyonight) -->
+
+![](https://github-readme-stats.vercel.app/api?username=sidd6p&theme=tokyonight&show_icons=true&locale=en&layout=compact)
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=sidd6p&theme=black)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidd6p&theme=tokyonight)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sidd6p&theme=tokyonight&utcOffset=8)
 
 ## __Things to proud of🔥__  
 [![@sidd6p's Holopin board](https://holopin.me/sidd6p)](https://holopin.io/@sidd6p)
