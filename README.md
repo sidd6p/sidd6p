@@ -79,3 +79,6 @@
 
 ![](https://leetcard.jacoblin.cool/siddp6?ext=contest)
 
+![image](https://user-images.githubusercontent.com/91800813/236801732-8266ef40-fccd-421e-9f14-e7d29faf5c81.png)
+![image](https://user-images.githubusercontent.com/91800813/236801801-b3bd4b5d-c744-4374-91a0-0b020ccfa2fb.png)
+![image](https://user-images.githubusercontent.com/91800813/236801849-1b9cef13-768e-4575-86b1-90b741d044b2.png)
