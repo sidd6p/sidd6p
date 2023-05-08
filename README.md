@@ -1,8 +1,7 @@
 ## __👋Hi I'm Siddhartha__
 
 
-![Hello, my name is Siddhartha Nice to meet you  (3)](https://user-images.githubusercontent.com/91800813/204003789-b05349b2-b4f6-42aa-9af1-e84e8a051daa.png)
-
+![Hello, my name is Siddhartha Nice to meet you  (6)](https://user-images.githubusercontent.com/91800813/236804973-5897640c-64f7-420f-b9af-e9c3ffa43e44.png)
 
 - 👀 I’m interested in Data Science, Technology, Problem Solving, Behavioral science, Well-being and anything that makes me curious 
 - 🌱 I’m currently learning Flask, FastAPI, Python, DSA, Competition coding
