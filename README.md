@@ -3,7 +3,7 @@
 ![Hello, my name is Siddhartha Nice to meet you](https://github.com/user-attachments/assets/02e510e1-b8b3-4336-95de-edbf6ce522c1)
 
 ### 👨‍💻 About Me
-I am **Siddhartha Purwar**, a Security Consultant Engineer at **Cisco**, passionate about software development and AI. With expertise in Python, Generative AI, and network security, I’m constantly exploring new technologies and solving real-world problems. Currently, I’m working on **AI-driven automation** and **security solutions** at Cisco, contributing to impactful projects like **LangChain** and **Langgraph**.
+I am **Siddhartha Purwar**, a Security Consultant Engineer at **Cisco**, passionate about software development and AI. With expertise in Python, AWS and network security, I’m constantly exploring new technologies and solving real-world problems. Currently, I’m working on **AI-driven automation** and **security solutions** at Cisco, contributing to impactful projects in **LangChain** and **Langgraph**.
 
 ---
 
