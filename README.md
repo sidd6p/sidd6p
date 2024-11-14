@@ -33,6 +33,8 @@ My ambition is to contribute to **cutting-edge AI** and software solutions. Whil
 ## __🐙 World of Git__
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidd6p&theme=tokyonight)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sidd6p&theme=tokyonight)](https://git.io/streak-stats)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidd6p&theme=tokyonight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sidd6p&theme=tokyonight)
