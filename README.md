@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me  
 
-I’m **Siddhartha Purwar**, an **AWS Solution Architect** and **Software Developer** with expertise in **AI-driven automation**, **GenAI**, and **cloud security**. Currently working at **Cisco**, I specialize in **Python**, **AWS**, and **agentic AI**.  
+I’m **Siddhartha Purwar**, an **AWS Solution Architect** and **Software Developer** with expertise in **AI-driven automation**, **GenAI**, and **Cloud**. Currently working at **Cisco**, I specialize in **Python**, **AWS**, **GoLang** and **agentic AI**.  
 
 My core focus is on **building intelligent AI agents**, leveraging **LangChain, LangGraph, and OpenAI APIs** to develop **autonomous systems**. My contributions have earned me the **CX Innovator Award** and **Young Turk Award** at Cisco.  
 
@@ -22,13 +22,12 @@ I am actively seeking **SDE roles** in **AI, cloud, and backend development**, w
 ✅ Work on **GenAI-powered SaaS** products using **LLMs, vector search, and RAG architectures**.  
 ✅ Leverage **AWS** to scale **AI workloads** efficiently.  
 
-With expertise in **FastAPI, Docker, and database optimizations**, I am eager to contribute to **cutting-edge AI & cloud-driven projects**.  
 
 ---
 
 ### 🧠 Tech Stack & AI Tools  
 
-🚀 **Languages & Frameworks**: Python, FastAPI, Flask, JavaScript  
+🚀 **Languages & Frameworks**: Python, GoLang, React, FastAPI, Flask  
 🧩 **Agentic AI & GenAI**: LangChain, LangGraph, OpenAI APIs  
 🔗 **Cloud & Infrastructure**: AWS, Docker, Kubernetes  
 📊 **Data & AI Pipelines**: PostgreSQL, MySQL, Redis, ElasticSearch  
