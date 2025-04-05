@@ -75,6 +75,9 @@ With expertise in **FastAPI, Docker, and database optimizations**, I am eager to
 
 ![](https://leetcard.jacoblin.cool/siddp6?ext=contest)  
 
+![](https://leetcode-badge-showcase.vercel.app/api?username=siddp6&theme=black)
+
+
 ![](https://user-images.githubusercontent.com/91800813/236804697-b2f7a463-f1fe-4429-b5fb-4864d9614ccc.png)  
 
 ![image](https://github.com/user-attachments/assets/cd96cc00-248c-4f8b-9469-576c0d8898a0)  
