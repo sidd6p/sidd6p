@@ -29,8 +29,8 @@ I am actively seeking **SDE roles** in **AI, cloud, and backend development**, w
 
 🚀 **Languages & Frameworks**: Python, GoLang, React, FastAPI, Flask  
 🧩 **Agentic AI & GenAI**: LangChain, LangGraph, OpenAI APIs  
-🔗 **Cloud & Infrastructure**: AWS, Docker, Kubernetes  
-📊 **Data & AI Pipelines**: PostgreSQL, MySQL, Redis, ElasticSearch  
+🔗 **Cloud & Infrastructure**: AWS, Docker, Kubernetes, Linux  
+📊 **Data & AI Pipelines**: PostgreSQL, MySQL   
 
 ---
 
