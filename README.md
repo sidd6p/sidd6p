@@ -5,7 +5,7 @@
 
 ### 🧠 About Me
 
-I’m **Siddhartha Purwar**, currently working as a **Senior Software Engineer at Cisco**, where I embed **AI-driven intelligence** into **Cisco’s cloud analytics products**.
+I’m **Siddhartha Purwar**, currently working as a **Software Engineer II at Cisco**, where I embed **AI-driven intelligence** into **Cisco’s cloud analytics products**.
 
 With experience in backend engineering using **Python**, **Java**, and **Go**, and a strong focus on deploying scalable cloud services on **AWS**, I also enjoy building frontend interfaces with **React**. I’ve worked on projects ranging from **LangGraph**-based autonomous agents to **AI-enhanced dashboards**, contributing to impactful solutions and earning industry recognition along the way.
 
@@ -13,14 +13,14 @@ With experience in backend engineering using **Python**, **Java**, and **Go**, a
 
 ### 🏆 Recognitions & Awards
 
-🏆  **CX Innovator Award** – Cisco  
-🏆  **Young Turk Award** – Cisco  
-🏆  **Global Finalist – Shell.ai Hackathon** (Ranked 19th out of 1,600+ participants)  
-🏆  **Wipro Earthian Award** – Presented by Mr. Azim Premji  
-🏆  **4 Cisco Acknowledgments** – For contributions to AI & Automation  
-🏆  **Top 12% on LeetCode**  
-🏆  **AWS Certified Solutions Architect – Associate**  
-🏆  **HackerRank Advanced SQL Certified**
+-  **CX Innovator Award** – Cisco  
+-  **Young Turk Award** – Cisco  
+-  **Global Finalist – Shell.ai Hackathon** (Ranked 19th out of 1,600+ participants)
+-  **Wipro Earthian Award** – Presented by Mr. Azim Premji  
+-  **4 Cisco Acknowledgments** – For contributions to AI & Automation  
+-  **Top 12% on LeetCode**  
+-  **AWS Certified Solutions Architect – Associate**  
+-  **HackerRank Advanced SQL Certified**
 
 ---
 
@@ -39,57 +39,52 @@ With experience in backend engineering using **Python**, **Java**, and **Go**, a
 
 ### 💡 Cisco Impact: Current Focus + Past Wins
 
-💡 **AI and Analytics**: Currently developing analytics and service insights using AI to predict the performance and behavior of Cisco security products  
-💡 **LangChain-based VPN Automation System**: Built a system to debug issues using config, logs, and internal knowledge, leveraging a multi-agent architecture  
-💡 **GenAI Feedback Visualizer**: Created a tool used by 100+ Cisco managers  
-💡 **FastAPI-backed APIs**: Built and showcased APIs to 500+ customers and leadership at the Cisco Security Summit 2023  
-💡 **SQL Monitoring Plugin in Go**: Developed a plugin to optimize database insights with less than 1% data usage  
-💡 **Python-React Dashboards**: Built dashboards to manage case timelines
+- **AI and Analytics**: Currently developing analytics and service insights using AI to predict the performance and behavior of Cisco security products  
+- **LangChain-based VPN Automation System**: Built a system to debug issues using config, logs, and internal knowledge, leveraging a multi-agent architecture  
+- **GenAI Feedback Visualizer**: Created a tool used by 100+ Cisco managers  
+- **FastAPI-backed APIs**: Built and showcased APIs to 500+ customers and Senior VP along with other leadership at the Cisco Security Summit 2023  
+- **SQL Monitoring Plugin in Go**: Developed a plugin to optimize database insights with for health monitoring. 
+- **Python-React Dashboards**: Built dashboards to manage case timelines
 
 ---
 
 ### 🚀 Career Ambitious
 
-🚀  Engineer scalable **AI-enhanced SaaS** products with **LLMs and cloud-native tools**  
-🚀  Collaborate with visionary teams on **cloud + AI automation** platforms  
-🚀 Work in **space technology** someday
+- Engineer scalable **AI-enhanced SaaS** products with **LLMs and cloud-native tools**  
+- Collaborate with visionary teams on **cloud + AI automation** platforms  
+- Work in **space technology** someday
 
 ---
 
 ### 🧠 Noteworthy Projects
 
-🧠 **Live Internet Browsing LLM Agent**  
-→ Real-time web-aware agents using LangChain, GPT, Tavily, and LangGraph
+- **Live Internet Browsing LLM Agent**: Real-time web-aware agents using LangChain, GPT, Tavily, and LangGraph
 
-🧠 **Log Ingestor & Query Interface**  
-→ FastAPI + Elasticsearch + Streamlit interface handling 5,000+ req/min
+- **Log Ingestor & Query Interface**: FastAPI + Elasticsearch + Streamlit interface handling 5,000+ req/min
 
-🧠 **ML Workflow on AWS SageMaker**  
-→ Automated pipelines using Lambda, S3, boto3 & real-time inference scaling
+- **ML Workflow on AWS SageMaker**: Automated pipelines using Lambda, S3, boto3 & real-time inference scaling
 
-🧠 **Store API with Auth & Notifications**  
-→ JWT-based API with Flask, SQLAlchemy, Docker & Mailgun
+- **Store API with Auth & Notifications**: WT-based API with Flask, SQLAlchemy, Docker & Mailgun
 
 ---
 
 ### 🧘 Outside of Code
-
-🧘 Engaged in **spiritual growth** through meditation and introspection  
-🧘 Fascinated by **cosmic exploration** and space tech  
-🧘 Avid reader of **philosophy**, **technology**, and **AI innovation**  
-🧘 Big fan of _The Big Bang Theory_ 😉
+- Engaged in **spiritual growth** through meditation and introspection  
+- Fascinated by **cosmic exploration** and space tech  
+- Avid reader of **philosophy**, **technology**, and **AI innovation**  
+- Big fan of _The Big Bang Theory_ webseries 😉
 
 ---
 
 ### 📬 Connect With Me
 
-📬 [Email](mailto:siddpurwar@gmail.com)  
-📬 [Book a Meet](https://calendly.com/siddp6)  
-📬 [LinkedIn](https://www.linkedin.com/in/siddp6/)  
-📬 [GitHub](https://github.com/sidd6p)  
-📬 [Kaggle](https://www.kaggle.com/siddp6/)  
-📬 [LeetCode](https://leetcode.com/siddp6/)  
-📬 [Medium](https://siddp6.medium.com/)  
+- [Email](mailto:siddpurwar@gmail.com)  
+- [Book a Meet](https://calendly.com/siddp6)  
+- [LinkedIn](https://www.linkedin.com/in/siddp6/)  
+- [GitHub](https://github.com/sidd6p)  
+- [Kaggle](https://www.kaggle.com/siddp6/)  
+- [LeetCode](https://leetcode.com/siddp6/)  
+- [Medium](https://siddp6.medium.com/)  
 
 ---
 
