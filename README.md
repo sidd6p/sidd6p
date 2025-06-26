@@ -2,7 +2,7 @@
 
 > __“Somewhere, something incredible is waiting to be known.”__ — Carl Sagan
 
-![AI Engineer Banner](https://github.com/user-attachments/assets/5fe70d18-efa2-4a8c-ada3-7a3cb2346598)
+![image](https://github.com/user-attachments/assets/cdeaea70-6ebe-49e7-9d0d-42a0ad351b35)
 
 ---
 
