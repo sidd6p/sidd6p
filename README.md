@@ -62,11 +62,8 @@ With experience in backend engineering using **Python**, **Java**, and **Go**, a
 ### 🧠 Noteworthy Personal Projects
 
 - **Live Internet Browsing LLM Agent**: Real-time web-aware agents using LangChain, GPT, Tavily, and LangGraph
-
 - **Log Ingestor & Query Interface**: FastAPI + Elasticsearch + Streamlit interface handling 5,000+ req/min
-
 - **ML Workflow on AWS SageMaker**: Automated pipelines using Lambda, S3, boto3 & real-time inference scaling
-
 - **Store API with Auth & Notifications**: WT-based API with Flask, SQLAlchemy, Docker & Mailgun
 
 ---
