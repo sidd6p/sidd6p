@@ -14,6 +14,14 @@ With experience in backend engineering using **Python**, **Java**, and **Go**, a
 
 ---
 
+### 🚀 Career Ambitious
+
+- Engineer scalable **AI-enhanced SaaS** products with **LLMs and cloud-native tools**  
+- Collaborate with visionary teams on **cloud + AI automation** platforms  
+- Work in **space technology** someday
+
+---
+
 ### 🏆 Recognitions & Awards
 
 -  **CX Innovator Award** – Cisco  
@@ -40,26 +48,18 @@ With experience in backend engineering using **Python**, **Java**, and **Go**, a
 
 ---
 
-### 💡 Cisco Impact: Current Focus + Past Wins
+### 💡 Projects from My Professional Journey
 
-- **AI and Analytics**: Currently developing analytics and service insights using AI to predict the performance and behavior of Cisco security products  
-- **LangChain-based VPN Automation System**: Built a system to debug issues using config, logs, and internal knowledge, leveraging a multi-agent architecture  
-- **GenAI Feedback Visualizer**: Created a tool used by 100+ Cisco managers  
-- **FastAPI-backed APIs**: Built and showcased APIs to 500+ customers and Senior VP along with other leadership at the Cisco Security Summit 2023  
-- **SQL Monitoring Plugin in Go**: Developed a plugin to optimize database insights with for health monitoring. 
-- **Python-React Dashboards**: Built dashboards to manage case timelines
-
----
-
-### 🚀 Career Ambitious
-
-- Engineer scalable **AI-enhanced SaaS** products with **LLMs and cloud-native tools**  
-- Collaborate with visionary teams on **cloud + AI automation** platforms  
-- Work in **space technology** someday
+- **AI and Analytics**: Developing analytics and insights using AI to predict the performance and behavior of security products  
+- **LangChain-based VPN Automation System**: Built a system to debug issues, visualize packet flow, and suggest best practices using configurations, logs, and internal knowledge—leveraging a multi-agent architecture  
+- **GenAI Feedback Visualizer**: Created a tool to extract insights from customer feedback; received recognition from a Distinguished Engineer for this work  
+- **FastAPI-backed APIs**: Built and showcased APIs to 500+ customers and the Senior VP, along with other leadership, at a major security summit in 2023  
+- **SQL Monitoring Plugin in Go**: Developed a plugin to optimize database insights for health monitoring  
+- **Python-React Dashboards**: Built dashboards to manage case timelines, used by 100+ managers  
 
 ---
 
-### 🧠 Noteworthy Projects
+### 🧠 Noteworthy Personal Projects
 
 - **Live Internet Browsing LLM Agent**: Real-time web-aware agents using LangChain, GPT, Tavily, and LangGraph
 
