@@ -6,6 +6,7 @@
 
 ---
 
+
 ### 🧠 About Me
 
 I’m **Siddhartha Purwar**, currently working as a **Software Engineer II at Cisco**, where I embed **AI-driven intelligence** into **Cisco’s cloud analytics products**.
@@ -89,6 +90,10 @@ With experience in backend engineering using **Python**, **Java**, and **Go**, a
 ---
 
 ## 🐙 GitHub Activity
+
+> Note: Most of my commits are in Cisco's private repositories and may not be visible here.
+
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidd6p&theme=tokyonight)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidd6p&theme=tokyonight)  
