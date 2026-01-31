@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-I’m **Siddhartha Purwar**, currently working as a **Software Engineer II at Cisco**, where I embed **AI-driven intelligence** into **Cisco’s cloud analytics products**.
+I’m **Siddhartha Purwar**, currently working at India health-tech startup as a **Software Development Engineer II at Truemeds** on inventory forecast, before that i was at Cisco adding **AI-driven intelligence into cloud analytics products**.
 
 With experience in backend engineering using **Python**, **Java**, and **Go**, and a strong focus on deploying scalable cloud services on **AWS**, I also enjoy building frontend interfaces with **React**. I’ve worked on projects ranging from **LangGraph**-based autonomous agents to **AI-enhanced dashboards**, contributing to impactful solutions and earning industry recognition along the way.
 
