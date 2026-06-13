@@ -80,7 +80,7 @@ My passion lies in bridging GenAI, network security, and backend engineering. Wi
 
 * [Email](mailto:siddpurwar@gmail.com)
 
-* [Topmate](https://topmate.io/dashboard/profile)
+* [Topmate](https://topmate.io/siddp6)
 
 * [LinkedIn](https://www.linkedin.com/in/siddp6/)
 
